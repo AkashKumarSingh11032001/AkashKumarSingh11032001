@@ -154,5 +154,7 @@
 
 <p align="center"> 
   Visitors count<br>
-  <img src="https://profile-counter.glitch.me/AkashKumarSingh11032001/count.svg" />
+  <img src="https://profile-counter.glitch.me/AkashKumarSingh11032001/count.svg" /><br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=your-github-AkashKumarSingh11032001&style=flat-square">
 </p>

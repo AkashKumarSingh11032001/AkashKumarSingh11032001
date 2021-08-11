@@ -123,13 +123,21 @@
 </div> -->
 
 
-<div style= "display:flex" align="centre">
-  <div style = "flex: 33.33%; padding: 5px;">
-    <a href="https://github.com/AkashKumarSingh11032001"><img  src="https://github-readme-stats.vercel.app/api?username=akashkumarsingh11032001&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=25&hide=Total Issues:" alt="akash" height="150px"/></a>
+<div align="center">
+  <div>
+    <a href="https://github.com/AkashKumarSingh11032001"><img  src="https://github-readme-stats.vercel.app/api?username=akashkumarsingh11032001&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=25&hide=Total Issues:" alt="akash" height="192px"/></a>
   </div>
-  <div style = "flex: 33.33%; padding: 5px;">
-    <a href="https://github.com/AkashKumarSingh11032001"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumarsingh11032001&show_icons=true&area=true&locale=en&layout=compact&theme=chartreuse-dark&border_radius=25&hide_rank=true&hide=Css,Rich Text Format" alt="akash" width="500px" height="160px" /></a>
+  <br>
+  <div>
+    <a href="https://github.com/AkashKumarSingh11032001"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumarsingh11032001&show_icons=true&area=true&locale=en&layout=compact&theme=chartreuse-dark&border_radius=25&hide_rank=true&hide=Css,Rich Text Format" alt="akash" width="500px" height="192px" /></a>
   </div>
+  <br>
+  <div align="centre">
+  <p align="center">
+    <a href="https://github.com/AkashKumarSingh11032001"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkumarsingh11032001&theme=chartreuse-dark&area=true&show_icons=true&locale=en&border_radius=15" alt="akash" height="192px"/></a>
+	</p>
+</div>
+
 </div>
 
 
@@ -137,11 +145,6 @@
 
 
 <!-- Github Streaks -->
-<div align="centre">
-  <p align="center">
-    <a href="https://github.com/AkashKumarSingh11032001"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkumarsingh11032001&theme=chartreuse-dark&area=true&show_icons=true&locale=en&border_radius=15" alt="akash" height="192px"/></a>
-	</p>
-</div>
 
 
 <br><br><br><hr>

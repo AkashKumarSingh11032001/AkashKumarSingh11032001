@@ -118,10 +118,20 @@
 
 <hr><br><br><br>
 <!-- Most Using Language && Github Stats --> 
-<div align="centre">
-&nbsp;&nbsp;&nbsp;<a href="https://github.com/AkashKumarSingh11032001"><img align="left" src="https://github-readme-stats.vercel.app/api?username=akashkumarsingh11032001&show_icons=true&locale=en&area=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="akash" height="192px"/></a>
-    <a href="https://github.com/AkashKumarSingh11032001"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumarsingh11032001&show_icons=true&area=true&locale=en&layout=compact&theme=chartreuse-dark" alt="akash" height="192px"/></a>
+<!-- <div align="centre">
+<a align="left" href="https://github.com/AkashKumarSingh11032001"><img  src="https://github-readme-stats.vercel.app/api?username=akashkumarsingh11032001&show_icons=true&locale=en&area=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="akash" height="150px"/></a>&nbsp;<a align="right" href="https://github.com/AkashKumarSingh11032001"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumarsingh11032001&show_icons=true&area=true&locale=en&layout=compact&theme=chartreuse-dark" alt="akash" height="160px" width="500"/></a>
+</div> -->
+
+
+<div style= "display:flex" align="centre">
+  <div style = "flex: 33.33%; padding: 5px;">
+    <a href="https://github.com/AkashKumarSingh11032001"><img  src="https://github-readme-stats.vercel.app/api?username=akashkumarsingh11032001&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_radius=25&hide=Total Issues:" alt="akash" height="150px"/></a>
+  </div>
+  <div style = "flex: 33.33%; padding: 5px;">
+    <a href="https://github.com/AkashKumarSingh11032001"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akashkumarsingh11032001&show_icons=true&area=true&locale=en&layout=compact&theme=chartreuse-dark&border_radius=25&hide_rank=true&hide=Css,Rich Text Format" alt="akash" width="500px" height="160px" /></a>
+  </div>
 </div>
+
 
 <br>
 
@@ -129,7 +139,7 @@
 <!-- Github Streaks -->
 <div align="centre">
   <p align="center">
-    <a href="https://github.com/AkashKumarSingh11032001"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkumarsingh11032001&theme=chartreuse-dark&area=true&show_icons=true&locale=en" alt="akash" height="192px"/></a>
+    <a href="https://github.com/AkashKumarSingh11032001"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkumarsingh11032001&theme=chartreuse-dark&area=true&show_icons=true&locale=en&border_radius=15" alt="akash" height="192px"/></a>
 	</p>
 </div>
 

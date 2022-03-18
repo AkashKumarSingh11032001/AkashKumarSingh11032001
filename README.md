@@ -134,7 +134,7 @@
   <br>
   <div align="centre">
   <p align="center">
-    <a href="https://github.com/AkashKumarSingh11032001"><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashkumarsingh11032001&theme=chartreuse-dark&area=true&show_icons=true&locale=en&border_radius=15)](https://git.io/streak-stats)" alt="akash" height="192px"/></a>
+    <a href="https://github.com/AkashKumarSingh11032001"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=AkashKumarSingh11032001&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&currStreakNum=DDD917&sideNums=DBDDB8" alt="akash" height="192px"/></a>
 	</p>
 </div>
 

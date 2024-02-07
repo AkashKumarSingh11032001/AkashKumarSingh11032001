@@ -2,7 +2,7 @@
  profile readme -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm <b>Akash Kumar Singh</b> !!!
 </h1>
-<h3 align="center">A passionate Machine Learning & frontend developer from India</h3>
+<h3 align="center">Problem Solver from India</h3>
 
 
 <!-- typing style -->

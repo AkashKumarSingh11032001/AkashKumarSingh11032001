@@ -44,10 +44,10 @@
 <div class="row" align="center">
   <h3>About me</h3>
   <div class="column">
-      I know a number of programming languages and am passionate about exploring different frameworks.<br>
+      I'm proficient in multiple programming languages and enthusiastic about exploring diverse frameworks.<br>
       Ask me anything you want, and I'll do my best to answer within seconds.<br>
-      I'm an introvert, so no talking, just coding.<br>
-      Learning something new regularly.<br>
+      I'm an introvert, so less talking, just coding.<br>
+      Learning something new on regular basic.<br>
       <br><br>
       <p align="centre">
           <a href="https://linkedin.com/in/akashkumarsingh11032001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashkumarsingh11032001" height="30" width="40" /></a>
